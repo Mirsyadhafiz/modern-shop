@@ -1,0 +1,196 @@
+@media (min-width: 320px) and (max-width: 480px) {
+ body {
+  background: 
+  }
+a {
+				text-decoration: none;
+				dislay: block;
+				font-style: sans-serif;
+				padding: 14px 10px;
+				font-size: 11px;
+}
+ul {
+				padding: 15px;
+				float: center;
+}
+li {
+      color: White;
+				display:inline;
+				list-style: none;
+}
+li a {
+				background: #272838; 
+				color: white;
+				display: inline;
+}
+li a:hover {
+				background: red;
+				color: white;
+}
+.navi {
+				background: #272838;
+				color: white;
+				box-shadow: 0px 7px 15px black;
+				width: 100%;
+				margin: 0;
+				padding: 0;
+}
+.line {
+				background: black;
+				color: white;
+				font-style: sans-serif;
+				padding: 5px;
+				text-align: center;
+				border: solid;
+				border-radius: 10px;
+		
+}
+b {
+				color: black;
+}
+.brand{
+text-align: center;
+				margin: 20px;
+				color: white;
+				border: solid black;
+				border-radius: 10px;
+				background: #7E7F9A;
+				box-shadow: 0px 7px 15px black;
+				height: 70px;			
+}
+img{
+				border-radius: 10px;
+				border: solid black;
+				margin-top: 8px;
+				margin-left: 2px;
+				margin-right: 2px;
+				border-radius: 100px;
+				float: center;
+				width: 37px;
+				height: 37px;
+				display: inline;
+}
+#card {
+        background: white;
+        border-radius: 8px;
+        box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.65);
+        height: 120px;
+        margin: 6rem auto 8.1rem auto;
+        width: 100px;
+        text-align: center;
+        img: center;
+       
+}
+.img2 {
+				border-radius: 10px;
+				border: solid black;
+				margin-top: 8px;
+				margin-left: 2px;
+				margin-right: 2px;
+				border-radius: 100px;
+				float: center;				
+				width: 45px;
+				height: 45px;
+				display: inline;				
+				
+}
+
+}
+.img3 {
+      background: lightblue;
+				border-radius: 1px;		     
+				width: 300px;
+			 align: center;
+				height: 180px;
+				display: inline;
+				text-align: center;				
+}
+figcaption {
+      color: black;
+      font-family: calibri;
+      text-align: center;      
+      font-size: 13px;
+      text-align: center;   
+   
+}
+.container {
+				display: flex;
+				background-color: white;
+				height: 110px;
+				border: solid black;
+				border-radius: 7px;
+				box-shadow: 0px 7px 15px black;
+}
+.container2 {
+				display: flex;
+				box-sizing: border-box;
+				background-color: white;
+				height: 70px;
+				border: solid black;
+				border-radius: 7px;
+				box-shadow: 0px 7px 15px black;
+}
+.container3 {
+				display: flex;
+				background-color: black;
+				color: white;
+				box-sizing: border-box;
+				height: 250px;
+				padding: 10px;
+				border: solid black;
+				border-radius: 7px;
+}
+.details a {
+				font-size: 10px;
+}
+			
+h1 {
+				font-family: courier new;
+}
+
+.class {
+				background: lightblue;
+				border-radius: 1px;		     
+				width: 300px;
+			 align: center;
+				height: 180px;
+				display: inline;
+				text-align: center;				
+}
+.details2 {
+     color: white;
+     background: black;
+			border: solid white;
+			padding: 10px;
+			border-radius: 5px;
+}
+.details3 {
+     color: white;
+     background: black;
+			border: solid white;
+			padding: 10px;
+			border-radius: 5px;
+}			
+details a {
+				font-size: 15px;
+				color: white;
+}
+.footer {
+				color: #4b4b4b;
+				float: center;
+}
+.footer1 {
+				font-size: 13px;
+				color: #4b4b4b;
+}
+.container4 {
+    		background-color: #bababa;
+				color: #232323;
+				box-sizing: border-box;
+				height: 350px;
+				padding: 10px;
+				border: solid #acacac;
+				text-align: center;
+}				
+body{
+				background: linear-gradient(#80eaff,#eaffea);

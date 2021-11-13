@@ -1,0 +1,64 @@
+body{
+				background: linear-gradient(#80eaff,#eaffea);
+}
+.brand {
+				font-style: courier new;
+				font-size: 40px;
+				border-radius: 5px;
+				text-align: center;
+				color: #058ED9;
+}
+.frame {
+				height: 500px;
+				width: 342px;						
+				border-radius: 10px;		
+				background-position: left;
+				text-align: center;
+				background-size: cover;				
+				opacity: 0.8;
+				background-image: url('/storage/emulated/0/download/gambar2.jpg');				
+
+}
+.container {
+				display: flex;
+				background-color: #a3a3a3;
+				height: 250px;
+				border-radius: 7px;
+}
+a {
+				text-decoration: none;
+				display: block;
+				padding:14px 10px;
+}
+ul {
+				padding: 15px;
+				float: center;
+}
+li {
+				display:inline;
+				list-style: inline;
+}
+li a {
+				background: #272838; 
+				color: white;
+				display: inline;
+}
+.navi {
+				background: #272838;
+				color: white;
+				width: 100%;
+				margin: 0;
+				padding: 0;
+				border-radius: 7px;
+}
+h1 {
+				color: #058ED9;
+				text-align: center;
+				font-size: 40px;
+}
+img {
+				padding : 5px;
+				width: 70px;
+				weight: 70px;
+				border-radius: 50px;				
+}

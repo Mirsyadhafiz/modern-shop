@@ -1,0 +1,36 @@
+body{
+				background: linear-gradient(#80eaff,#eaffea);
+}
+.body2 {
+				background: white;
+}
+#card{
+background: white;
+        border-radius: 8px;
+        box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.65);        
+        height: 480px;
+        margin: 6rem auto 8.1rem auto;
+        width: 300px;
+        text-align: center;
+        img: center;
+}
+input{
+				background: white;
+				color: black;
+				border-radius: 10px;
+				width: 190;
+				padding: 10px 10px;
+}
+button{
+			 background: #404eff;
+			 padding: 5px;
+			 width:100px;
+			 border-radius: 5px;
+			 font-family: courier new;
+			 border: none;
+			 color:white;
+}
+navbar{
+				background:gray;
+				width: 100%;
+}
